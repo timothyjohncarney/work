@@ -1,4 +1,4 @@
 #http://natasha.corp.lairdtech.com/jenkins/job/ramp_bridge-trunk/398/artifact/wb/images/daktronics/latest/bootstrap.bin 19a1b2ddc5d48e6075023faec3ddca3a
 #http://natasha.corp.lairdtech.com/jenkins/job/ramp_bridge-trunk/398/artifact/wb/images/daktronics/latest/u-boot.bin da130c2daeceed05a881833f2f51f1c3
-https://www.dropbox.com/s/yuzzubt6xo22buz/kernel.bin 4c9689eb10679913cc40bb370a7f7c41
-https://www.dropbox.com/s/9doxf7i8ryzcyd1/rootfs.bin 98b6f6ace54116f0e79d449fc818862c
+https://github.com/timothyjohncarney/work/master/398/kernel.bin 4c9689eb10679913cc40bb370a7f7c41
+https://github.com/timothyjohncarney/work/master/398/rootfs.bin 98b6f6ace54116f0e79d449fc818862c
