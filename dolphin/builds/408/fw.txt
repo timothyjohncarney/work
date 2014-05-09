@@ -1,0 +1,3 @@
+#http://natasha.corp.lairdtech.com/jenkins/job/ramp_bridge-trunk/408/artifact/wb/images/daktronics/latest/u-boot.bin bd17e59e6dee2ca6062b77325e6cb97e
+http://natasha.corp.lairdtech.com/jenkins/job/ramp_bridge-trunk/408/artifact/wb/images/daktronics/latest/kernel.bin 530d17264b1473e59416f7df7efec812
+http://natasha.corp.lairdtech.com/jenkins/job/ramp_bridge-trunk/408/artifact/wb/images/daktronics/latest/rootfs.bin f59a9f117eb9fb58270492af3392d737
